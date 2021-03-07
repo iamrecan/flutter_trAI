@@ -27,3 +27,6 @@ Uygulama demosunda Navigation bar ile arayüzler arası geçiş yapılabilirken,
   <img width="300" src="https://github.com/iamrecan/flutter_trAI/blob/main/c.png"
 </p>
 
+<p align="center">
+  <img width="400" src="https://github.com/iamrecan/flutter_trAI/blob/main/tr-AI-Demo.gif">
+</p>
