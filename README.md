@@ -1,16 +1,29 @@
-# deneme2
+# Google DSC - Solution Challange Hack for People Hackathon | trAI
 
-A new Flutter application.
+Google DSC tarafından düzenlenen Solution Challenge Hack for People & Peace Hackathon'u için oluşturulan trAI projesi. Bu repoda trAI için Flutter UI şablonunun demosu oluşturulmuştur. Mobil uygulama çözümleri için buradaki repoyu inceleyebilirsiniz.
 
-## Getting Started
+Amacımız, Google teknolojilerini kullanarak geliştirdiğimiz trAI çözümleri ile Birleşmiş Milletilerin yayınladığı [Sürdürülebilir Kalkınma Amaçları](https://www.tr.undp.org/content/turkey/tr/home/sustainable-development-goals.html)na katkı sağlamaktır. Bu proje, Sağlık ve Kaliteli Yaşam (Hedef 3) başlığı altında yer alan Bulaşıcı Olmayan Hastalıklardan Kaynaklanan Ölümlerin Azaltılması ve Ruh Sağlığının Desteklenmesi (Hedef 3.4) konusu ile ilgilidir.
 
-This project is a starting point for a Flutter application.
+![trAI](https://user-images.githubusercontent.com/46672587/110232212-86fe4a00-7f2d-11eb-97de-f6a23488754b.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+trAI için Hackathon'un bu aşamasında belirlenen ana hedef, AI, CV ve Mobil Uygulama çözümleri ile kullanıcının yiyecek ve egzersiz takibini yaparak bireyin yaşam kalitesini fiziksel ve mental açıdan arttırmaktır. 
+
+Yiyecek (Food) ve egzersiz (Training) olarak iki farklı başlık olarak ele aldığımız trAI'ın genel hatlarıyla belirttiğimiz AI ve CV mimarisi ve bu süreçte kullandığımız Google teknolojileri aşağıda ifade edilmiştir.
+
+Bu Mobil uygulama sayesinde kullanıcıların yaptığı fiziksel aktivitenin değerlendirilmesi, beslenme içeriğinin kayıt altına alınması ve bu kayıt altına alınan veriler ile herhangi bir hastalığa yatkınlık durumu analiz edilmektedir. Kullanıcıların sağlık durumunun değerlendirilmesinden sonra risk azaltıcı yönde tavsiyeler ile kullanıcıların yaşam standartlarını yükseltmek hedeflenmiştir
+
+Tasarım demosu üzerine çalışılırken olabildiğince OpenSource kaynaktan yararlanılmış projenin kısa sürede olgun hale getirilmesi amaçlanmıştır.
+Google servislerinden biri olan Flutter frameworkü ve Dart programlama dili ile uygulama geliştirilmiştir.
+
+trAI markası üzerinde temellendirilen uygulamanın giriş görüntüsü, arayüzü ve harita sayfası aşağıdaki mock up'ta belirtilmiştir.
+
+Uygulama demosunda Navigation bar ile arayüzler arası geçiş yapılabilirken, Sidebar ile kullanıcı hesap kontrollerini yapabilir.
+
+<p align="center">
+  <img width="300" src="https://github.com/iamrecan/flutter_trAI/blob/main/a.png"<span> &emsp;</span>
+  <img width="300" src="https://github.com/iamrecan/flutter_trAI/blob/main/b.png"<span> &emsp;</span>
+  <img width="300" src="https://github.com/iamrecan/flutter_trAI/blob/main/c.png"
+</p>
+
